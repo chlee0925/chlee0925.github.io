@@ -1,2 +1,13 @@
-# chlee0925.github.io
-Juho's personal homepage
+# Juho's personal homepage
+Welcome to Juho's personal homepage! This homepage offers terminal-like experiences to learn more about Juho. :)
+
+![Sample screenshot](https://raw.githubusercontent.com/chlee0925/chlee0925.github.io/master/sample_screenshot.png "Sample screenshot")
+
+# License
+Juho's personal homepage uses:
+ - terminal.js https://github.com/AVGP/terminal.js (MIT License)
+>The MIT License (MIT)
+>Copyright (c) 2014 Martin N.
+>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
