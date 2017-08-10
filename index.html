@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Juho's personal homepage</title>
+	<style>
+		*:focus {
+    		outline: none;
+		}
+
+		* {
+			font-family: Courier;
+			font-size: 14px;
+			color: lime;
+			background-color: black;
+		}
+
+		.white {
+			color: white;
+		}
+
+		table {
+			border-spacing: 20px
+		}
+	</style>
+</head>
+<body>
+	<p>Hello! Welcome to Juho's personal homepage.</p>
+	<p>Please try typing <span class="white">help</span> and enter.</p>
+	<div id="juhoterminal">
+		<p>
+			<span>guest$ </span>
+			<span contenteditable="true" class="input" id="to_be_focused"> </span>
+		</p>
+	</div>
+
+	<script src="terminal.js/terminal.js"></script>
+	<script src="commands.js"></script>
+	<script>
+		Terminal.init(document.getElementById("juhoterminal"), commands);
+
+		// command-line element always to be in focus
+		// TODO id is not unique.
+		// document.getElementById('to_be_focused').onblur = function (event) {
+    //     	var elem = this;
+    //     	setTimeout(function() { elem.focus() }, 50);
+    // 	};
+	</script>
+</body>
+</html>
