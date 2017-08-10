@@ -18,6 +18,8 @@ var Terminal = (function() {
         terminal.appendChild(newPrompt);
         newPrompt.querySelector(".input").innerHTML = " ";
         newPrompt.querySelector(".input").focus();
+
+        window.scrollTo(0, document.body.scrollHeight);
     };
 
     var runCommand = function(terminal, cmd, args) {
@@ -68,7 +70,7 @@ var Terminal = (function() {
 
     self.init = function(elem, commands) {
         self.commands = commands;
-    
+
         elem.addEventListener("keydown", function(event) {
             if(event.keyCode == KEY_TAB) {
                 var prompt = event.target;
@@ -88,7 +90,7 @@ var Terminal = (function() {
                 return false;
             }
         });
-    
+
         elem.addEventListener("keyup", function(event) {
             if(historyIndex < 0) return;
             browseHistory(event.target, event.keyCode);
@@ -112,6 +114,6 @@ var Terminal = (function() {
         elem.querySelector(".input").focus();
         return self;
     };
-    
+
     return self;
 })();
