@@ -1,3 +1,16 @@
+function readCommand(path)
+{
+		var request = new XMLHttpRequest();
+		request.open('GET', path, false);
+		request.send(null);
+
+		if (request.status === 200 || request.status === 0) {
+			return request.responseText;
+		} else {
+			return '';
+		}
+}
+
 var commands = {
 	help: function() {
 		return '<h3>Supported commands</h3>'
@@ -10,7 +23,7 @@ var commands = {
 				+ '</ul>';
 	},
 	hi: function() {
-		return '<p>Hi there! It\'s me, Juho. Thanks for visiting my website.</p>';
+		return readCommand('commands/hi.txt');
 	},
 	clear: function() {
 		location.reload();
