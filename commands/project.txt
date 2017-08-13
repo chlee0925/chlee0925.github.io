@@ -1,0 +1,12 @@
+<ul>
+	<li>
+    <h3>Supermarket store management system</h3>
+      Offers a full suite of features including supply management, transactions, and analytics.
+      Check my work <a href="https://chlee0925.github.io/EasyTech/">here</a>.
+    </li>
+	<li>
+    <h3>Mobile competitive gaming platform</h3>
+      Tournament-based platform that runs on video advertisement.
+      Check my work <a href="https://chlee0925.github.io/Playphone_mSports-project/">here</a>.
+  </li>
+</ul>

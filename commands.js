@@ -30,5 +30,8 @@ var commands = {
 	},
 	work: function() {
 		return readCommand('commands/work.txt');
+	},
+	project: function() {
+		return readCommand('commands/project.txt');
 	}
 }

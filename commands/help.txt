@@ -5,4 +5,6 @@
   <li>intro - Juho's introduction</li>
   <li>status - Juho's current status</li>
   <li>work - Work experiences</li>
+  <li>project - Juho's past projects</li>
 </ul>
+<p>Pro-tip: You can use key-up/down to search history and tab to auto-complete.</p>
