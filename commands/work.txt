@@ -1,0 +1,60 @@
+<table>
+  <thead>
+    <th>id</th>
+    <th>period</th>
+    <th>company/organisation</th>
+    <th>position</th>
+    <th>location</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7</td>
+      <td>Aug 2016-Jul 2017</td>
+      <td>Playphone, Inc.</td>
+      <td>Software Engineering Intern</td>
+      <td>Sunnyvale, California</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Jan 2016-Jun 2016</td>
+      <td>Intraix Pte Ltd</td>
+      <td>Software Engineering Intern</td>
+      <td>Singapore</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Aug 2015-Jun 2016</td>
+      <td>Ridge View Residential College, NUS</td>
+      <td>Student Fellow</td>
+      <td>Singapore</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Aug 2015-Nov 2015</td>
+      <td>National University of Singapore</td>
+      <td>Teaching Assistant, CS1010J Programming Methodology</td>
+      <td>Singapore</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>May 2015-Aug 2015</td>
+      <td>Intraix Pte Ltd</td>
+      <td>Business Development Intern</td>
+      <td>Singapore</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Dec 2013-Jun 2014</td>
+      <td>Master System Co., Ltd.</td>
+      <td>Professional Interpreter</td>
+      <td>Ahmedabad, India</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Jan 2012-Oct 2013</td>
+      <td>Ministry of National Defense</td>
+      <td>Army Interpreter</td>
+      <td>South Korea</td>
+    </tr>
+  </tbody>
+</table>
