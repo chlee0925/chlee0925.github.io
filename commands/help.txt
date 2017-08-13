@@ -1,7 +1,7 @@
 <h3>Supported commands</h3>
 <ul>
-  <li>hi - A greeting message from Juho.</li>
-  <li>clear - Clear the screen.</li>
+  <li>hi - A greeting message from Juho</li>
+  <li>clear - Clear the screen</li>
   <li>intro - Juho's introduction</li>
   <li>status - Juho's current status</li>
   <li>work - Work experiences</li>
