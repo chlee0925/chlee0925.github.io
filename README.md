@@ -1,7 +1,7 @@
 # Juho's personal homepage
 Welcome to Juho's personal homepage! This homepage offers terminal-like experiences to learn more about Juho. :)
 
-![Sample screenshot](https://raw.githubusercontent.com/chlee0925/chlee0925.github.io/master/sample_screenshot.png "Sample screenshot")
+<img src="https://raw.githubusercontent.com/chlee0925/chlee0925.github.io/master/sample_screenshot.png" width="70%">
 
 # License
 Juho's personal homepage uses:
