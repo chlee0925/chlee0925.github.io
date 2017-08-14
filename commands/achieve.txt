@@ -1,0 +1,29 @@
+<h2>Projects</h2>
+<ul>
+  <li>
+    <h3>Supermarket store management system</h3>
+      Offers a full suite of features including supply management, transactions, and analytics.
+      Check my work <a href="https://chlee0925.github.io/EasyTech/">here</a>.
+  </li>
+  <li>
+    <h3>Mobile competitive gaming platform</h3>
+      Tournament-based platform that runs on video advertisement.
+      Check my work <a href="https://chlee0925.github.io/Playphone_mSports-project/">here</a>.
+  </li>
+</ul>
+
+<h2>Accomplishments</h2>
+<ul>
+  <li>
+    <h3>DeveloperWeek 2017 - One of top five teams overall (180 teams in total)</h3>
+     Feb 2017 |  DeveloperWeek - In order to improve communication between sign-language speakers and non-speakers, the team built an iOS native application that understands sign languages by recognising images. The application used speech-to-text and text-to-speech engine to facilitate the communication. Image recognition of sign languages was powered by Clarifai’s machine learning API. I implemented a backend server that interacts with Feedzai’s API services in Java.
+  </li>
+  <li>
+    <h3>Money 20/20 hackathon - Top sponsor (Feedzai) prize winner team ($5,000), one of top ten teams overall</h3>
+     Oct 2016 | Money 20/20 - To solve problems of reliability in open marketplaces like Craigslist, the team built a Chrome extension that generates fraud scores for users on each posting. Generation of fraud scores employed Feedzai’s machine learning API. I implemented the interactions with Feedzai’s machine learning models in Ruby.
+  </li>
+  <li>
+    <h3>Changi Airport of the Future Hackathon - Grand prize winner team ($3,000)</h3>
+     Sep 2016 | Changi Airport - The team built a mobile web application that provides easy and essential experiences for travellers at Changi Airport. Our app is much more convenient than the existing native app, which users have to download it beforehand. Our product offerings included finding favourite stores through Tinder-like UI on top of essential traveler features such as flight information, and boarding pass scan. I wrote backend codes in Python to interact with various API services.
+  </li>
+</ul>

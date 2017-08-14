@@ -1,0 +1,22 @@
+<table>
+  <tr>
+    <td>Aug 2014 - Present</td>
+    <td>National University of Singapore (NUS)</td>
+    <td>Singapore</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <ul>
+        <li>Bachelor of Computing (Honours) in Information Systems</li>
+        <li>Expected to graduate in 2018</li>
+      </ul>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dec 2016 - June 2017</td>
+    <td>Stanford University (Center for Professional Development)</td>
+    <td>US</td>
+  </tr>
+<tbody>

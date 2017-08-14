@@ -31,7 +31,13 @@ var commands = {
 	work: function() {
 		return readCommand('commands/work.txt');
 	},
-	project: function() {
-		return readCommand('commands/project.txt');
+	achieve: function() {
+		return readCommand('commands/achieve.txt');
+	},
+	edu: function() {
+		return readCommand('commands/edu.txt');
+	},
+	contact: function() {
+		return readCommand('commands/contact.txt');
 	}
 }
